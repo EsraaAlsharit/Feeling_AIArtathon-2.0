@@ -6,6 +6,7 @@ with Neural-style that is tensorflow_hub model
 to mix the little girl with brain
 and then Lucid library do the Magic
 
-
+the out put:
+https://drive.google.com/drive/folders/1lLFvkVs92a0RZOLojgEY4MISPL0LYff7?usp=sharing
 
 
